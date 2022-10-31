@@ -7,31 +7,29 @@
 |
 
 
-Welcome to IungoPBXPBX Docs
+Welcome to IungoPBX Docs
 =========================
 
-**IungoPBXPBX**
+**IungoPBX**
 ---------------
 
 An open source project that provides a customizable and
 flexible web interface to the very powerful and highly scalable
 multi-platform voice switch called `FreeSWITCH`_.
 
-IungoPBXPBX will run on a variety of operating systems (Optimized for Debian 8+) and
-hardware of your choice. IungoPBXPBX provides a GUI for QR Code soft phone provisioning, unlimited
+IungoPBX will run on a variety of operating systems (Optimized for Debian 8+) and
+hardware of your choice. IungoPBX provides a GUI for QR Code soft phone provisioning, unlimited
 extensions, voicemail-to-email, music on hold, call parking, analog
-lines or high density T1/E1 circuits, and many other features. IungoPBXPBX
+lines or high density T1/E1 circuits, and many other features. IungoPBX
 provides the functionality that business need and provides corporate
-level phone system features to small, medium and large businesses. `Click here for the IungoPBXPBX youtube channel`_ .
+level phone system features to small, medium and large businesses. _ .
 
 .. raw:: html
 
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/embed/XpiVyHqLaus?rel=0" frameborder="0" ; encrypted-media" allowfullscreen></iframe>
-    </div>
 
 
-Benefits of IungoPBXPBX
+
+Benefits of IungoPBX
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Adding extra functionality to the incredibly robust FreeSWITCH VoIP Platform.
@@ -40,7 +38,7 @@ Benefits of IungoPBXPBX
 3. Gives your users and tenants an attractive GUI interface to interact with. 
 
 
-`IungoPBXPBX Features`_
+`IungoPBX Features`_
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 +-------------------------+-----------------------+---------------------------------+------------------------------------------+
@@ -62,7 +60,7 @@ Our Ecosystem
 
 We are a **global community** that has an open and **very friendly** ecosystem.  We encourage community engagement, contribution and feedback. Please join us by getting involved with giving feedback, new feature ideas, helping out with code or Documentation.
 
-Most of the core folks who develop and use IungoPBXPBX can be found hanging out in IRC network **irc.libera.chat** in the **#iungopbx** channel. Come join us and meet the team.
+Most of the core folks who develop and use IungoPBX can be found hanging out in IRC network **irc.libera.chat** in the **#iungopbx** channel. Come join us and meet the team.
 
 .. _Device Provisioning: applications/provision.html
 .. _Streams: applications/streams.html
@@ -70,7 +68,7 @@ Most of the core folks who develop and use IungoPBXPBX can be found hanging out 
 .. _SMS/MMS ready: applications/sms_mms.html
 .. _FreeSWITCH: https://www.freeswitch.org
 .. _IungoPBXPBX: https://www.iungopbx.com
-.. _Click here for the IungoPBXPBX youtube channel: https://www.youtube.com/playlist?list=PLrhVQpI_CtOwQNB_lsNIxrl9SOAuo9ZSF
+.. _Click here for the IungoPBX youtube channel: https://www.youtube.com/playlist?list=PLrhVQpI_CtOwQNB_lsNIxrl9SOAuo9ZSF
 .. _IVR Menus: applications/ivr.html
 .. _Call Broadcast: applications/call_broadcast.html
 .. _Call Block: applications/call_block.html
